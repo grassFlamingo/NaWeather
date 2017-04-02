@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/xml">
+        <file>scrpis/menu.png</file>
+        <file>scrpis/AirQuality.png</file>
+        <file>scrpis/Humidity.png</file>
+        <file>scrpis/Temperature.png</file>
+        <file>scrpis/UVRadiationIntensity.png</file>
+        <file>scrpis/Wind.png</file>
+        <file>scrpis/Air.png</file>
+        <file>scrpis/Cold.png</file>
+        <file>scrpis/move.png</file>
+        <file>scrpis/Sport.png</file>
+        <file>scrpis/WashCar.png</file>
+        <file>scrpis/Wear.png</file>
+        <file>scrpis/close.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>weatherIcon/0.png</file>
+        <file>weatherIcon/1.png</file>
+        <file>weatherIcon/2.png</file>
+        <file>weatherIcon/3.png</file>
+        <file>weatherIcon/4.png</file>
+        <file>weatherIcon/5.png</file>
+        <file>weatherIcon/6.png</file>
+        <file>weatherIcon/7.png</file>
+        <file>weatherIcon/8.png</file>
+        <file>weatherIcon/9.png</file>
+        <file>weatherIcon/10.png</file>
+        <file>weatherIcon/11.png</file>
+        <file>weatherIcon/12.png</file>
+        <file>weatherIcon/13.png</file>
+        <file>weatherIcon/14.png</file>
+        <file>weatherIcon/15.png</file>
+        <file>weatherIcon/16.png</file>
+        <file>weatherIcon/17.png</file>
+        <file>weatherIcon/18.png</file>
+        <file>weatherIcon/19.png</file>
+        <file>weatherIcon/20.png</file>
+        <file>weatherIcon/21.png</file>
+        <file>weatherIcon/22.png</file>
+        <file>weatherIcon/23.png</file>
+        <file>weatherIcon/24.png</file>
+        <file>weatherIcon/25.png</file>
+        <file>weatherIcon/26.png</file>
+        <file>weatherIcon/27.png</file>
+        <file>weatherIcon/28.png</file>
+        <file>weatherIcon/29.png</file>
+        <file>weatherIcon/31.png</file>
+        <file>weatherIcon/nothing.png</file>
+    </qresource>
+</RCC>
