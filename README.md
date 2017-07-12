@@ -5,3 +5,5 @@ It ues the weather web server : "http://www.webxml.com.cn/WebServices/WeatherWeb
 Weather.db is the database
 
 Everyone is welcomed to get and modify this program.
+
+!!!! THE Weather API cannot be use anymore. SO, Saddly, this program won't work. at 2017-7-12.
